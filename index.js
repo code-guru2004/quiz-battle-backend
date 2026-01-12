@@ -71,10 +71,10 @@ function startQuestion(roomCode) {
   io.to(roomCode).emit("new-question", {
     question: q.question,
     options: q.options,
-    time: 10
+    time: 30
   });
 
-  setTimeout(() => endQuestion(roomCode), 10000);
+  setTimeout(() => endQuestion(roomCode), 30000);
 }
 
 function endQuestion(roomCode) {

@@ -1,126 +1,152 @@
 export const questions = [
     {
       question: "Who was the founder of the Maurya Empire?",
+      topic:"Ancient India",
       options: ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
       answer: "Chandragupta Maurya"
     },
     {
       question: "Which is the oldest known civilization in India?",
+      topic:"Ancient India",
       options: ["Vedic Civilization", "Harappan Civilization", "Mauryan Civilization", "Gupta Civilization"],
       answer: "Harappan Civilization"
     },
     {
       question: "The Great Bath is found at which Harappan site?",
+      topic:"Ancient India",
       options: ["Harappa", "Dholavira", "Mohenjo-daro", "Lothal"],
       answer: "Mohenjo-daro"
     },
     {
       question: "Who wrote the Arthashastra?",
+      topic:"Ancient India",
       options: ["Kalidasa", "Chanakya", "Megasthenes", "Panini"],
       answer: "Chanakya"
     },
     {
       question: "Which Veda is mainly a collection of hymns?",
+      topic:"Ancient India",
       options: ["Yajurveda", "Atharvaveda", "Rigveda", "Samaveda"],
       answer: "Rigveda"
     },
     {
       question: "Which metal was unknown to the Indus Valley people?",
+      topic:"Ancient India",
       options: ["Gold", "Copper", "Iron", "Silver"],
       answer: "Iron"
     },
     {
       question: "Who was the first Tirthankara of Jainism?",
+      topic:"Ancient India",
       options: ["Mahavira", "Parshvanatha", "Rishabhanatha", "Neminatha"],
       answer: "Rishabhanatha"
     },
     {
       question: "Who was the contemporary of Gautama Buddha?",
+      topic:"Ancient India",
       options: ["Chandragupta Maurya", "Bimbisara", "Ashoka", "Harsha"],
       answer: "Bimbisara"
     },
     {
       question: "The famous Lion Capital of Ashoka is located at?",
+      topic:"Ancient India",
       options: ["Sarnath", "Sanchi", "Bodh Gaya", "Kushinagar"],
       answer: "Sarnath"
     },
     {
       question: "Which script was used in the Ashokan inscriptions?",
+      topic:"Ancient India",
       options: ["Kharosthi", "Brahmi", "Greek", "Persian"],
       answer: "Brahmi"
     },
     {
       question: "Which site is known for its dockyard in the Indus Valley Civilization?",
+      topic:"Ancient India",
       options: ["Harappa", "Mohenjo-daro", "Lothal", "Kalibangan"],
       answer: "Lothal"
     },
     {
       question: "Who introduced the policy of Dhamma?",
+      topic:"Ancient India",
       options: ["Chandragupta Maurya", "Bindusara", "Ashoka", "Harsha"],
       answer: "Ashoka"
     },
     {
       question: "The Upanishads mainly deal with?",
+      topic:"Ancient India",
       options: ["Rituals", "Philosophy", "Agriculture", "Medicine"],
       answer: "Philosophy"
     },
     {
       question: "Which ancient text describes the social system of early India?",
+      topic:"Ancient India",
       options: ["Arthashastra", "Manusmriti", "Rigveda", "Puranas"],
+      topic:"Ancient India",
       answer: "Manusmriti"
     },
     {
       question: "Who was the Greek ambassador in the court of Chandragupta Maurya?",
+      topic:"Ancient India",
       options: ["Seleucus", "Megasthenes", "Plutarch", "Herodotus"],
       answer: "Megasthenes"
     },
     {
       question: "Which Mahajanapada was ruled by King Ajatashatru?",
+      topic:"Ancient India",
       options: ["Kosala", "Magadha", "Avanti", "Vatsa"],
       answer: "Magadha"
     },
     {
       question: "The term ‘Satyameva Jayate’ is taken from which Upanishad?",
+      topic:"Ancient India",
       options: ["Isha Upanishad", "Mundaka Upanishad", "Katha Upanishad", "Brihadaranyaka Upanishad"],
       answer: "Mundaka Upanishad"
     },
     {
       question: "Which animal is depicted on the coins of the Maurya period?",
+      topic:"Ancient India",
       options: ["Horse", "Lion", "Elephant", "All of these"],
       answer: "All of these"
     },
     {
       question: "Which was the capital of the Maurya Empire?",
+      topic:"Ancient India",
       options: ["Ujjain", "Taxila", "Pataliputra", "Rajgir"],
       answer: "Pataliputra"
     },
     {
       question: "Which river is mentioned most frequently in the Rigveda?",
+      topic:"Ancient India",
       options: ["Ganga", "Yamuna", "Saraswati", "Sindhu"],
       answer: "Sindhu"
     },
     {
         question: "Which Indus Valley site is famous for its water management system?",
+        topic:"Ancient India",
         options: ["Harappa", "Dholavira", "Lothal", "Kalibangan"],
         answer: "Dholavira"
       },
       {
         question: "The Vardhamana Mahavira was born at?",
+        topic:"Ancient India",
         options: ["Vaishali", "Rajgir", "Pataliputra", "Kushinagar"],
         answer: "Vaishali"
       },
       {
         question: "Which Buddhist council was held during the reign of Ashoka?",
+        topic:"Ancient India",
         options: ["First", "Second", "Third", "Fourth"],
         answer: "Third"
       },
       {
         question: "The famous stupa at Sanchi was originally built by?",
+        topic:"Ancient India",
         options: ["Kanishka", "Harsha", "Ashoka", "Chandragupta Maurya"],
         answer: "Ashoka"
       },
       {
         question: "Which of the following was NOT a Mahajanapada?",
+        topic:"Ancient India",
         options: ["Magadha", "Kuru", "Kosala", "Kalinga"],
         answer: "Kalinga"
       },
